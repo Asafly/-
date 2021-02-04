@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\ShellEx\ContextMenuHandlers\YunShellExt]
+@="{6D85624F-305A-491d-8848-C1927AA0D790}"
+
+[HKEY_CLASSES_ROOT\Directory\ShellEx\ContextMenuHandlers\YunShellExt]
+@="{6D85624F-305A-491d-8848-C1927AA0D790}"
